@@ -7,9 +7,9 @@
     <title>Home</title>
 </head>
 <body>
-    <h1>Hello</h1>
-    <h2>testing</h2>
-    <h3>magic</h3>
-    <p>of jykell</p>
+    # Hello
+    ## testing</h2>
+    ### magic</h3>
+    **of jykell**
 </body>
 </html>
